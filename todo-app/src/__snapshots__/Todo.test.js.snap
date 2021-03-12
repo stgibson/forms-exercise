@@ -2,8 +2,15 @@
 
 exports[`matches snapshot 1`] = `
 <DocumentFragment>
-  <div>
+  <div
+    class="Todo"
+  >
     Test Task
+    <button
+      class="Todo-button"
+    >
+      edit
+    </button>
     <button
       class="Todo-button"
     >
